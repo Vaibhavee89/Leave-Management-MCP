@@ -71,7 +71,7 @@ Below are sample responses from Claude Desktop while interacting with this MCP s
 
 ### Image 1: Leave Application Request (Placeholder)
 
-![Claude Leave Request](images/claude_leave_request.png)
+![Claude Leave Request](D:\AIAgents\ai-agents\2_mcp_leave_management\LeaveManagement SS1.png)
 
 ### Image 2: Leave Approval Response (Placeholder)
 
