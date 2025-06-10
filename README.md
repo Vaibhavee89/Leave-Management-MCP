@@ -71,7 +71,7 @@ Below are sample responses from Claude Desktop while interacting with this MCP s
 
 ### Image 1: Leave Application Request (Placeholder)
 
-![Claude Leave Request](/LeaveManagement SS1.png)
+![Claude Leave Request](/LeaveManagementSS1.png)
 
 ### Image 2: Leave Approval Response (Placeholder)
 
