@@ -23,7 +23,7 @@ Follow these steps to set up and run the Leave Management MCP Server:
 2. **Install `uv` package manager**  
    ```bash
    pip install uv
-````
+
 
 3. **Initialize a new MCP server project**
 
