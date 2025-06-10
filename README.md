@@ -61,7 +61,7 @@ Follow these steps to set up and run the Leave Management MCP Server:
 9. **Set the tool in Claude Desktop**
    You can now configure and use this server as a tool inside Claude Desktop.
 
----
+
 
 
 
@@ -77,7 +77,7 @@ Below are sample responses from Claude Desktop while interacting with this MCP s
 
 ![Claude Leave Approval](images/claude_leave_approval.png)
 
----
+
 
 
 
