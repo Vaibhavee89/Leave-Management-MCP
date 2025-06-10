@@ -69,13 +69,13 @@ Follow these steps to set up and run the Leave Management MCP Server:
 
 Below are sample responses from Claude Desktop while interacting with this MCP server:
 
-### Image 1: Leave Application Request (Placeholder)
+### Image 1: Leave Query (Placeholder)
 
 ![Claude Leave Request](/LeaveManagementSS1.png)
 
-### Image 2: Leave Approval Response (Placeholder)
+### Image 2: Apply for Leave Approval Response (Placeholder)
 
-![Claude Leave Approval](images/claude_leave_approval.png)
+![Claude Leave Approval](/LeaveManagemetntSS2.png)
 
 
 
