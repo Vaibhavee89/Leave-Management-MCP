@@ -1,17 +1,93 @@
-# Leave Management MCP
-This MCP server is intended for leave management. 
+# Leave Management MCP Server
 
-# Setup steps
-1. Install Claude Desktop
-2. Install uv by running `pip install uv`
-3. Run `uv init my-first-mcp-server` to create a project directory
-4. Run `uv add "mcp[cli]"` to add mcp cli in your project
-5. Few folks may get type errors for which you can run `pip install --upgrade typer` to upgrade typer library to its latest version
-6. Write code in main.py for leave management server
-7. Install this server inside Claude desktop by running `uv run mcp install main.py` in the project directory
-8. Kill any running instance of Claude from Task Manager. Restart Claude Desktop
-9. In Claude desktop, now you can set tool for this server 
+This is a simple **Leave Management MCP (Modular Command Platform) Server** designed for educational purposes. It integrates with **Claude Desktop** and allows management of leave requests through a customized MCP interface. The project follows a minimal setup to help beginners learn MCP server development.
 
-This MCP server was built with the help of a youtube tutorial just for learning purpose.
+---
+
+## 🚀 Features
+
+- Leave application management via CLI and Claude Desktop
+- Simple and customizable MCP server structure
+- Beginner-friendly setup
+- Built as a learning project inspired by a YouTube tutorial
+
+---
+
+## 🛠️ Setup Instructions
+
+Follow these steps to set up and run the Leave Management MCP Server:
+
+1. **Install Claude Desktop**  
+   Download and install Claude Desktop from the official website.
+
+2. **Install `uv` package manager**  
+   ```bash
+   pip install uv
+````
+
+3. **Initialize a new MCP server project**
+
+   ```bash
+   uv init my-first-mcp-server
+   ```
+
+4. **Add MCP CLI dependency to your project**
+
+   ```bash
+   uv add "mcp[cli]"
+   ```
+
+5. **(Optional)** Fix potential typing errors by upgrading `typer`
+
+   ```bash
+   pip install --upgrade typer
+   ```
+
+6. **Implement the server logic**
+   Write your leave management server code in `main.py`.
+
+7. **Install this MCP server inside Claude Desktop**
+   Run the following in the project directory:
+
+   ```bash
+   uv run mcp install main.py
+   ```
+
+8. **Restart Claude Desktop**
+
+   * Kill any running instance of Claude from **Task Manager**.
+   * Start Claude Desktop again.
+
+9. **Set the tool in Claude Desktop**
+   You can now configure and use this server as a tool inside Claude Desktop.
+
+---
+
+## 📂 Project Structure
+
+```
+my-first-mcp-server/
+│
+├── main.py            # Main MCP server implementation
+├── README.md          # Project documentation
+└── uv.yaml            # uv project configuration file
+```
+
+---
+
+## 🖼️ Sample Claude Responses
+
+Below are sample responses from Claude Desktop while interacting with this MCP server:
+
+### Image 1: Leave Application Request (Placeholder)
+
+![Claude Leave Request](images/claude_leave_request.png)
+
+### Image 2: Leave Approval Response (Placeholder)
+
+![Claude Leave Approval](images/claude_leave_approval.png)
+
+---
+
 
 
