@@ -63,17 +63,7 @@ Follow these steps to set up and run the Leave Management MCP Server:
 
 ---
 
-## 📂 Project Structure
 
-```
-my-first-mcp-server/
-│
-├── main.py            # Main MCP server implementation
-├── README.md          # Project documentation
-└── uv.yaml            # uv project configuration file
-```
-
----
 
 ## 🖼️ Sample Claude Responses
 
