@@ -1,6 +1,6 @@
 # Leave Management MCP Server
 
-This is a simple **Leave Management MCP (Modular Command Platform) Server** designed for educational purposes. It integrates with **Claude Desktop** and allows management of leave requests through a customized MCP interface. The project follows a minimal setup to help beginners learn MCP server development.
+This is a simple **Leave Management MCP (Model Context Protocol) Server** designed for educational purposes. It integrates with **Claude Desktop** and allows management of leave requests through a customized MCP interface. The project follows a minimal setup to help beginners learn MCP server development.
 
 ---
 
